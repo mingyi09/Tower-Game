@@ -1,5 +1,5 @@
 # Course Assignment: Tower Game
-# An Overview from the Writeup
+### An Overview from the Writeup
 A demo of gameplay of a simple RPG. In the game, there is the hero, our main character, and the tower. 
 In each level of the tower, there is a monster and an item. 
 The hero will go from the first level to the top level of the tower, fighting a monster at each level along the way. Once a monster is defeated, the hero will pick up an item on the same level to enhance themselves. Both hero and monsters have three attributes: attackDamage, health, and speed. The hero and monster will take turns attacking each other.
